@@ -40,7 +40,7 @@ As student login he can see this dashboard
 
 ### Admin Credential
 
-User-name : pranav@admin.com
+User-name :ajit@admin.com
 
 Password : 12345
 
